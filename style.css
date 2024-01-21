@@ -1,0 +1,28 @@
+.my-course{
+  margin-top: 200px;
+}
+.heading-section{
+  margin-top: 100px;
+}
+.col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ margin-bottom: 20px;
+}
+.navbar{
+  background-color:#DADADA;
+}
+#heading{
+  background-color: #3F7F00;
+}
+body{
+  background-color: #9FBF7F;
+}
+.forms-one{
+  border: 2px solid #EBF2E5;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
